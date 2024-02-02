@@ -1,7 +1,7 @@
 # Machine-learning
 Classification of images of brain tumors (4 classes);
 Support Vector Machine (SVM),
-PCA t-SNE,
+PCA, t-SNE,
 Logistic regression,
 Naive Bayes,
 Decision trees,
